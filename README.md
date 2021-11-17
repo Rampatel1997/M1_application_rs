@@ -1,1 +1,1 @@
-# M1_application_rs
+# M1_application_MGS(marksheet generation system)
